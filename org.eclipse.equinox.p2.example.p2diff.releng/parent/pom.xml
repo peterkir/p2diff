@@ -15,9 +15,9 @@
 
   <repositories>
     <repository>
-      <id>luna-R</id>
+      <id>Oxygen-3a</id>
       <layout>p2</layout>
-      <url>http://download.eclipse.org/releases/luna/201406250900</url>
+      <url>http://download.eclipse.org/releases/oxygen/201804111000</url>
     </repository>
   </repositories>
   <build>
@@ -49,21 +49,6 @@
               <os>linux</os>
               <ws>gtk</ws>
               <arch>x86_64</arch>
-            </environment>
-            <environment>
-              <os>macosx</os>
-              <ws>cocoa</ws>
-              <arch>x86</arch>
-            </environment>
-            <environment>
-              <os>win32</os>
-              <ws>win32</ws>
-              <arch>x86</arch>
-            </environment>
-            <environment>
-              <os>linux</os>
-              <ws>gtk</ws>
-              <arch>x86</arch>
             </environment>
           </environments>
         </configuration>
