@@ -11,9 +11,6 @@
 package org.eclipse.equinox.p2.example.p2diff;
 
 import java.net.URI;
-import java.util.Set;
-
-import javax.swing.text.StyledEditorKit.ItalicAction;
 
 import org.eclipse.equinox.app.IApplication;
 import org.eclipse.equinox.app.IApplicationContext;

@@ -38,6 +38,7 @@ import org.eclipse.equinox.p2.metadata.ITouchpointInstruction;
  * @author Ian Bull
  *
  */
+@SuppressWarnings("restriction")
 public class DeepIUCompare {
 
 	private Collection<IUPart> retativeComplementA = null;

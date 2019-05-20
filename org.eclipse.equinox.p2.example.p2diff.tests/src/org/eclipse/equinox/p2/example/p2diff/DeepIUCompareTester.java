@@ -10,12 +10,8 @@
  *******************************************************************************/
 package org.eclipse.equinox.p2.example.p2diff;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.fail;
 
-import org.eclipse.equinox.p2.example.p2diff.DeepIUCompare;
-import org.eclipse.equinox.p2.metadata.IInstallableUnit;
-import org.eclipse.equinox.p2.metadata.MetadataFactory;
-import org.eclipse.equinox.p2.metadata.MetadataFactory.InstallableUnitDescription;
 import org.junit.Test;
 
 public class DeepIUCompareTester extends IUTester {

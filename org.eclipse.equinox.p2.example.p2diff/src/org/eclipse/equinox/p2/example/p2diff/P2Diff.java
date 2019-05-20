@@ -10,7 +10,6 @@
  *******************************************************************************/
 package org.eclipse.equinox.p2.example.p2diff;
 
-import java.net.URI;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
